@@ -1,0 +1,44 @@
+
+#contact
+{ color:rgb(260,85,10);
+}
+  
+  .query
+{
+  color:black;
+  border:3px solid orange;
+  width:270px;
+  border-sizing:border-box;
+  text-align:center;
+}
+.wel
+{
+background-image:url("https://images.unsplash.com/photo-1511978293554-7b92f19bd77d?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=4d13c2e4b34947f3e296e697ecd0c5cb&auto=format&fit=crop&w=500&q=60");
+background-size:100% 100%;
+  color:white;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:orange;
+}
+li a {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+.aa 
+{
+  text-align:center;
+}
+li a:hover {
+    background-color: red;
+}
